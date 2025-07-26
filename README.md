@@ -1,6 +1,6 @@
 # Het Virani – Digital Portfolio
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-181717?style=flat-square&logo=githubpages&logoColor=white)](https://hetvirani.github.io/Digital-Portfolio/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-181717?style=flat-square&logo=githubpages&logoColor=white)](https://hetvirani.github.io/Het_Virani-Digital-Portfolio/)
 [![GitHub](https://img.shields.io/badge/GitHub-Hetvirani-181717?style=flat-square&logo=github)](https://github.com/Hetvirani)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Het%20Virani-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/het-virani/)
 
@@ -11,7 +11,7 @@ Explore my projects, skills, and experience in software development, embedded sy
 
 ## 🚀 View My Portfolio Live
 
-👉 **[hetvirani.github.io/Digital-Portfolio/](https://hetvirani.github.io/Digital-Portfolio/)**
+👉 **[https://hetvirani.github.io/Het_Virani-Digital-Portfolio/](https://hetvirani.github.io/Het_Virani-Digital-Portfolio/)**
 
 ---
 
